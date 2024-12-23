@@ -1,5 +1,7 @@
 ## SwapNexus
 
+
+![SwapNexus Logo](./images/screenshot-1.png)
 SwapNexus is a robust cross chain token transfer platform, which is based on ICP (Internet Computer Protocol) blockchain. It allows for cross chain transfer of ICP based tokens. 
 Our platform allows to seamlessly swap between a user's tokens, based on the ongoing market rate. 
 
@@ -10,3 +12,6 @@ First, the user specifies the allowance, i.e., the maximum amount of tokens that
 - **Mint** - Minting means to create (mint) new currency in the second blockahin, effectively implemented by the transfer of converted tokens from the minter account to the same user's account on the second blockhain.
 
 This mechanism ensures that the data is decentralized, and the host website does not hold the rights of changing the policies or accessing other information. This is implemented through Motoko programming language, on which we implement the logic for burning and minting the tokens.
+
+
+![SwapNexus swap](./images/screenshot-2.png)
